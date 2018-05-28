@@ -5,7 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28f1741f-ffc1-4f2f-8e2f-b8bd432d368b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/proguard-rules.pro" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/androidTest/java/com/example/newpc/qrcode/ApplicationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/AndroidManifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/java/com/example/newpc/qrcode/GeneratorActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/java/com/example/newpc/qrcode/MainActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/java/com/example/newpc/qrcode/ReaderActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/java/com/example/newpc/qrcode/ReaderActivityTwo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/layout/activity_generator.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/layout/activity_reader.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/values-w820dp/dimens.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/values/colors.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/values/dimens.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/values/strings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/main/res/values/styles.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/app/src/test/java/com/example/newpc/qrcode/ExampleUnitTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/gradle.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/gradlew" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/QRCodeUsingZxingLibrary/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -2130,7 +2160,13 @@
             <path>
               <item name="QRCodeUsingZxingLibrary" type="b2602c69:ProjectViewProjectNode" />
               <item name="QRCodeUsingZxingLibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="QRCodeUsingZxingLibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QRCodeUsingZxingLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QRCodeUsingZxingLibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="QRCodeUsingZxingLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2330,12 +2366,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
